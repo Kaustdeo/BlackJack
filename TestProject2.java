@@ -106,6 +106,6 @@ public class TestProject2 {
                 System.out.println("You lost " + firstBet + " dollars.");
             }
         }
-        System.out.println("You ran out of money. Game over!");
+        System.out.println("You ran out of money.");
     }
 }
